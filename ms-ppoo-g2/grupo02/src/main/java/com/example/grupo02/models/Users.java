@@ -1,6 +1,9 @@
 package com.example.grupo02.models;
 
 import java.util.UUID;
+import jakarta.persistence.Entity;
+
+@Entity
 
 public class Users {
     
